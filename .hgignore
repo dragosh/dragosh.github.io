@@ -1,0 +1,10 @@
+/node_modules
+/dist
+/.sass-cache
+.DS_Store
+Thumbs.db
+/.hg
+/.git
+/.tmp
+/__tmp/*
+/app/components

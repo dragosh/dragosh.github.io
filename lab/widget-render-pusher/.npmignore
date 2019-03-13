@@ -1,0 +1,14 @@
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.sublime*
+*.node
+*.orig
+.idea
+.DS_Store
+
+reports
+node_modules

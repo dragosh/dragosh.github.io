@@ -1,0 +1,27 @@
+{
+  "name": "widget-render-pusher",
+  "version": "0.7.0",
+  "main": "index.js",
+  "contributors": [
+    "Dragos <dragos@backbase.com>",
+    "Ben <ben@backbase.com>"
+  ],
+  "scripts": {
+    "start": "bblp start -e --template index.html"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+
+  },
+  "keywords": [
+
+  ],
+  "config": {
+    "entry": {
+      "widget-render-pusher": "index.js"
+    }
+  },
+  "license": "SEE LICENSE IN LICENSE"
+}

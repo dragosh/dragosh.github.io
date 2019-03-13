@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    dragos oancea-zevri -- webdeveloper
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3, Sass
+    jQuery, Modernizr, Backbone, RequireJS

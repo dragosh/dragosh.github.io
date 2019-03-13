@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:g="http://www.backbase.com/2008/gadget" xml:lang="en">
+
+<head>
+    <title>Widget RenderConf Pusher</title>
+    <meta http-equiv="Content-Type" content="text/xml; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="MobileOptimized" content="320" />
+    <script src="https://js.pusher.com/3.0/pusher.min.js"></script>
+    <!-- widget -->
+    <link rel="stylesheet" href="dist/styles/widget-render-pusher.css" type="text/css" />
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.3.5.min.js"></script>
+</head>
+
+<body>
+
+    <section>
+        <!-- <button id="test">Push</button> -->
+        <audio id="sound" src="media/camera-shutter-click-08.mp3"></audio>
+        <div id="shutter"></div>
+        <div class="widget-render-pusher-content clearfix">
+            <div id="my_camera" class="pic"></div>
+        </div>
+        <div id="gallery"></div>
+    </section>
+    <footer>
+        <a href="http://www.backbase.com" target="_blank" id="bb"></a>
+        <a href="https://pusher.com" target="_blank" id="push"></a>
+    </footer>
+</body>
+
+<script src="dist/widget-render-pusher.js"></script>
+</html>

@@ -1,0 +1,896 @@
+{
+    "error":false,
+    "code":200,
+    "result":{
+        "data":[
+            {
+                "name":"YouNet",
+                "description":"Promotional campaign with high traffic. <br> An early youtube clone with complex statistics report in the admin panel. <br>The campaign was for smokers who bought Philip Morris brand cigarettes like L&M, PallMall and others. <br>They could upload a funny video by submiting the code written on the cigarettes package.",
+                "date":"september 2007",
+                "project_tags":"campaign",
+                "client":"Philip Morris",
+                "technology":"php, mysql, html, css, javascript, ajax, ffmpeg",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/younet.ro/younet-1.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/younet.ro/younet-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/younet.ro/younet-2.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/younet.ro/younet-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/younet.ro/younet-3.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/younet.ro/younet-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/younet.ro/younet-4.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/younet.ro/younet-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Airwaves Movie Star",
+                "description":"Local brand campaign that allowed users to upload movies and based on the number of votes they were selected and winners by a lucky draw system.",
+                "date":"february 2007",
+                "project_tags":"campaign",
+                "client":"Airwaves",
+                "technology":"flash, php, mysql, html, css, javascript, ffmpeg",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/airwaves.ro/airwaves-1.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/airwaves.ro/airwaves-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/airwaves.ro/airwaves-2.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/airwaves.ro/airwaves-2_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"The look",
+                "description":"Promotional campaign, mostly for female users that choose to dress in black&white outfit. The lucky one could win a brand new car.",
+                "date":"march 2008",
+                "project_tags":"campaign",
+                "client":"Philip Morris",
+                "technology":"flash, php, mysql, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/thelook.ro/thelook-1.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/thelook.ro/thelook-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/thelook.ro/thelook-2.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/thelook.ro/thelook-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/thelook.ro/thelook-3.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/thelook.ro/thelook-3_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Apropiere fara limite",
+                "description":"Social dating system website",
+                "date":"2008 february",
+                "project_tags":"website",
+                "client":"Airwaves",
+                "technology":"php, mysql, html, css,javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/apropierefaralimite.ro/apropierefaralimite-1.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/apropierefaralimite.ro/apropierefaralimite-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/apropierefaralimite.ro/apropierefaralimite-2.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/apropierefaralimite.ro/apropierefaralimite-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/seniorinteractive/apropierefaralimite.ro/apropierefaralimite-3.jpg",
+                        "thumb":"/assets/data/media/seniorinteractive/apropierefaralimite.ro/apropierefaralimite-3_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Accu-Chek",
+                "description":"The corporate website for the Accu-Chek company, with an custom CMS",
+                "date":"september 2011",
+                "url":"http://www.accu-chek.ro/",
+                "project_tags":"website",
+                "client":"Accu Chek",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/accu-chek.ro/accu-chek-1.jpg",
+                        "thumb":"/assets/data/media/kubis/accu-chek.ro/accu-chek-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/accu-chek.ro/accu-chek-2.jpg",
+                        "thumb":"/assets/data/media/kubis/accu-chek.ro/accu-chek-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/accu-chek.ro/accu-chek-3.jpg",
+                        "thumb":"/assets/data/media/kubis/accu-chek.ro/accu-chek-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/accu-chek.ro/accu-chek-4.jpg",
+                        "thumb":"/assets/data/media/kubis/accu-chek.ro/accu-chek-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Aficotroceni",
+                "description":"The corporate website for the biggest mall in Romania. Custom CMS for managing mall shops, promos, cinema movies, images gallery and more.",
+                "date":"september 2011",
+                "url":"http://www.aficotroceni.ro/",
+                "project_tags":"website",
+                "client":"Aficotroceni",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "media_path" : "/assets/data/media/kubis/aficotroceni.ro/",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/aficotroceni.ro/aficotroceni-1.jpg",
+                        "thumb":"/assets/data/media/kubis/aficotroceni.ro/aficotroceni-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/aficotroceni.ro/aficotroceni-2.jpg",
+                        "thumb":"/assets/data/media/kubis/aficotroceni.ro/aficotroceni-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/aficotroceni.ro/aficotroceni-3.jpg",
+                        "thumb":"/assets/data/media/kubis/aficotroceni.ro/aficotroceni-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/aficotroceni.ro/aficotroceni-4.jpg",
+                        "thumb":"/assets/data/media/kubis/aficotroceni.ro/aficotroceni-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"AvaAlto",
+                "description":"An small website for a restaurant located in Houston US with a custom CMS.",
+                "date":"february 2011",
+                "url":"http://avaalto.com/",
+                "project_tags":"website",
+                "client":"Ava & Alto",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/avaalto.com/avaalto-1.jpg",
+                        "thumb":"/assets/data/media/kubis/avaalto.com/avaalto-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/avaalto.com/avaalto-2.jpg",
+                        "thumb":"/assets/data/media/kubis/avaalto.com/avaalto-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/avaalto.com/avaalto-3.jpg",
+                        "thumb":"/assets/data/media/kubis/avaalto.com/avaalto-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/avaalto.com/avaalto-4.jpg",
+                        "thumb":"/assets/data/media/kubis/avaalto.com/avaalto-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Axa Asigurari",
+                "description":"The romanian corporate Axa insurance website. Maintaining and adding new features.",
+                "date":"",
+                "url":"http://axa-asigurari.ro",
+                "project_tags":"website",
+                "client":"Axa Insurance",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/axa-asigurari.ro/axa-asigurari-1.jpg",
+                        "thumb":"/assets/data/media/kubis/axa-asigurari.ro/axa-asigurari-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/axa-asigurari.ro/axa-asigurari-2.jpg",
+                        "thumb":"/assets/data/media/kubis/axa-asigurari.ro/axa-asigurari-2_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Citigold",
+                "description":"The romanian webiste for a new Citibank product",
+                "date":"",
+                "url":"http://citigold.ro",
+                "project_tags":"website",
+                "client":"Citibank",
+                "technology":"html, css, javascript",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/citigold.ro/citigold-1.jpg",
+                        "thumb":"/assets/data/media/kubis/citigold.ro/citigold-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/citigold.ro/citigold-2.jpg",
+                        "thumb":"/assets/data/media/kubis/citigold.ro/citigold-2_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Colours of Nature",
+                "description":"Brand Campaign with voting system and image uploading.",
+                "date":"",
+                "url":"http://coloursofnature.ro",
+                "project_tags":"campaign",
+                "client":"Henkel",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/coloursofnature.ro/coloursofnature-1.jpg",
+                        "thumb":"/assets/data/media/kubis/coloursofnature.ro/coloursofnature-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/coloursofnature.ro/coloursofnature-2.jpg",
+                        "thumb":"/assets/data/media/kubis/coloursofnature.ro/coloursofnature-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/coloursofnature.ro/coloursofnature-3.jpg",
+                        "thumb":"/assets/data/media/kubis/coloursofnature.ro/coloursofnature-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/coloursofnature.ro/coloursofnature-4.jpg",
+                        "thumb":"/assets/data/media/kubis/coloursofnature.ro/coloursofnature-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Dero",
+                "description":"Local Brand product. An website with different themes.",
+                "date":"",
+                "url":"http://dero.ro",
+                "project_tags":"website",
+                "client":"Unilever",
+                "technology":"html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/dero.ro/dero-1.jpg",
+                        "thumb":"/assets/data/media/kubis/dero.ro/dero-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/dero.ro/dero-2.jpg",
+                        "thumb":"/assets/data/media/kubis/dero.ro/dero-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/dero.ro/dero-3.jpg",
+                        "thumb":"/assets/data/media/kubis/dero.ro/dero-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/dero.ro/dero-4.jpg",
+                        "thumb":"/assets/data/media/kubis/dero.ro/dero-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Floriol",
+                "description":"Local Brand Campaign/Website",
+                "date":"",
+                "url":"http://floriol.ro",
+                "project_tags":"campaign",
+                "client":"Bunge",
+                "technology":"php, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/floriol.ro/floriol-1.jpg",
+                        "thumb":"/assets/data/media/kubis/floriol.ro/floriol-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/floriol.ro/floriol-2.jpg",
+                        "thumb":"/assets/data/media/kubis/floriol.ro/floriol-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/floriol.ro/floriol-3.jpg",
+                        "thumb":"/assets/data/media/kubis/floriol.ro/floriol-3_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Jorgriommi.com",
+                "description":"Portfolio website for the Saatchi&amp;Saatchi Creative art director. And a small CMS for managing projects and personal photos.",
+                "date":"",
+                "url":"http://jorgriommi.com",
+                "project_tags":"website",
+                "client":"Jorgriommi",
+                "technology":"php, html, mysql, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/jorgriommi.com/jorgriommi-1.jpg",
+                        "thumb":"/assets/data/media/kubis/jorgriommi.com/jorgriommi-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/jorgriommi.com/jorgriommi-2.jpg",
+                        "thumb":"/assets/data/media/kubis/jorgriommi.com/jorgriommi-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/jorgriommi.com/jorgriommi-3.jpg",
+                        "thumb":"/assets/data/media/kubis/jorgriommi.com/jorgriommi-3_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Notebookreview",
+                "description":"As the name says is a custom made website for finding informations, reviews about a certain laptop. The CMS is also custom made to fulfill the editor needs. Unfortunately the website is not up-to-date anymore",
+                "date":"",
+                "url":"http://notebookreview.ro",
+                "project_tags":"website",
+                "client":"",
+                "technology":"php, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/personal/notebookreview/notebookreview-1.jpg",
+                        "thumb":"/assets/data/media/personal/notebookreview/notebookreview-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/personal/notebookreview/notebookreview-2.jpg",
+                        "thumb":"/assets/data/media/personal/notebookreview/notebookreview-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/personal/notebookreview/notebookreview-3.jpg",
+                        "thumb":"/assets/data/media/personal/notebookreview/notebookreview-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/personal/notebookreview/notebookreview-4.jpg",
+                        "thumb":"/assets/data/media/personal/notebookreview/notebookreview-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Kubisinteractive",
+                "description":"Agency website",
+                "date":"",
+                "url":"http://kubisinteractive.com",
+                "project_tags":"website",
+                "client":"Kubisinteractive",
+                "technology":"php, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/kubisinteractive.com/kubisinteractive-1.jpg",
+                        "thumb":"/assets/data/media/kubis/kubisinteractive.com/kubisinteractive-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/kubisinteractive.com/kubisinteractive-2.jpg",
+                        "thumb":"/assets/data/media/kubis/kubisinteractive.com/kubisinteractive-2_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Orasultandretii",
+                "description":"Local Brand Campaign.",
+                "date":"",
+                "url":"http://orasultandretii.ro",
+                "project_tags":"campaign",
+                "client":"Milka",
+                "technology":"php, html, mysql, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/orasultandretii.ro/orasultandretii-1.jpg",
+                        "thumb":"/assets/data/media/kubis/orasultandretii.ro/orasultandretii-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/orasultandretii.ro/orasultandretii-2.jpg",
+                        "thumb":"/assets/data/media/kubis/orasultandretii.ro/orasultandretii-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/orasultandretii.ro/orasultandretii-3.jpg",
+                        "thumb":"/assets/data/media/kubis/orasultandretii.ro/orasultandretii-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/orasultandretii.ro/orasultandretii-4.jpg",
+                        "thumb":"/assets/data/media/kubis/orasultandretii.ro/orasultandretii-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Pofta de viata",
+                "description":"Local Brand Campaign",
+                "date":"",
+                "url":"http://poftadeviata.ro",
+                "project_tags":"campaign",
+                "client":"Bunge",
+                "technology":"php, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/poftadeviata.ro/poftadeviata-1.jpg",
+                        "thumb":"/assets/data/media/kubis/poftadeviata.ro/poftadeviata-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/poftadeviata.ro/poftadeviata-2.jpg",
+                        "thumb":"/assets/data/media/kubis/poftadeviata.ro/poftadeviata-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/poftadeviata.ro/poftadeviata-3.jpg",
+                        "thumb":"/assets/data/media/kubis/poftadeviata.ro/poftadeviata-3_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Redds",
+                "description":"Local Brand Website.",
+                "date":"",
+                "url":"http://redds.ro",
+                "project_tags":"campaign",
+                "client":"SABMiller",
+                "technology":"php, html, mysql, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/redds.ro/redds-1.jpg",
+                        "thumb":"/assets/data/media/kubis/redds.ro/redds-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/redds.ro/redds-2.jpg",
+                        "thumb":"/assets/data/media/kubis/redds.ro/redds-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/redds.ro/redds-3.jpg",
+                        "thumb":"/assets/data/media/kubis/redds.ro/redds-3_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Varadero",
+                "description":"Local Brand Campaign with a lot of funny, interactive javascript games.",
+                "date":"",
+                "url":"http://vara-dero.ro",
+                "project_tags":"campaign",
+                "client":"Unilever",
+                "technology":"html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/varadero.ro/varadero-1.jpg",
+                        "thumb":"/assets/data/media/kubis/varadero.ro/varadero-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/varadero.ro/varadero-2.jpg",
+                        "thumb":"/assets/data/media/kubis/varadero.ro/varadero-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/varadero.ro/varadero-3.jpg",
+                        "thumb":"/assets/data/media/kubis/varadero.ro/varadero-3_t.jpg"
+                    },
+                    {
+                        "isImage":false,
+                        "vimeo_id":"64146387",
+                        "thumb":"/assets/data/media/kubis/varadero.ro/varadero-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Vichyconsult",
+                "description":"Local Brand Campaign/Website.",
+                "date":"",
+                "url":"http://vichyconsult.ro",
+                "project_tags":"campaign,Website",
+                "client":"Vichy",
+                "technology":"php, html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/vichyconsult.ro/vichyconsult-1.jpg",
+                        "thumb":"/assets/data/media/kubis/vichyconsult.ro/vichyconsult-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/vichyconsult.ro/vichyconsult-2.jpg",
+                        "thumb":"/assets/data/media/kubis/vichyconsult.ro/vichyconsult-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/vichyconsult.ro/vichyconsult-3.jpg",
+                        "thumb":"/assets/data/media/kubis/vichyconsult.ro/vichyconsult-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/kubis/vichyconsult.ro/vichyconsult-4.jpg",
+                        "thumb":"/assets/data/media/kubis/vichyconsult.ro/vichyconsult-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Kiss the world happy 2012",
+                "description":"A new year campaign, where users could upload or record 'kisses' and then share them via media social networks such as Facebook or Twitter.",
+                "date":"december 2011",
+                "project_tags":"campaign",
+                "client":"I amsterdam",
+                "technology":"html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/kisstheworldhappy2012/kisstheworldhappy2012-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/kisstheworldhappy2012/kisstheworldhappy2012-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/kisstheworldhappy2012/kisstheworldhappy2012-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/kisstheworldhappy2012/kisstheworldhappy2012-2_t.jpg"
+                    },
+                    {
+                        "isImage":false,
+                        "vimeo_id":"64146794",
+                        "thumb":"/assets/data/media/tpcbf/kisstheworldhappy2012/kisstheworldhappy2012-3_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"O'Neill 60's year",
+                "description":"A campaign for celebrating 60 years of innovation crafted in a nice timeline.",
+                "date":"february 2012",
+                "url":"http://www.oneill.com/60years/",
+                "project_tags":"campaign",
+                "client":"O'Neill",
+                "technology":"html, css, javascript, ajax",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/oneill60s/oneill60years-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/oneill60s/oneill60years-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/oneill60s/oneill60years-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/oneill60s/oneill60years-2_t.jpg"
+                    },
+                    {
+                        "isImage":false,
+                        "vimeo_id":"64147012",
+                        "thumb":"/assets/data/media/tpcbf/oneill60s/oneill60years-3_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Mess with the DJ",
+                "description":"A Facebook summer compaign for Bavaria, users could add songs for upcomming festivals. The festivals and tracks were administrated via an admin panel.",
+                "date":"april 2012",
+                "url":"https://www.messwiththedj.nl/",
+                "project_tags":"campaign",
+                "client":"Bavaria",
+                "technology":"php, mysql, flash, html, css, javascript, ajax",
+                "apis": "Facebook, Spotify, Youtube",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/messwiththedj/messwiththedj-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/messwiththedj/messwiththedj-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/messwiththedj/messwiththedj-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/messwiththedj/messwiththedj-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/messwiththedj/messwiththedj-3.jpg",
+                        "thumb":"/assets/data/media/tpcbf/messwiththedj/messwiththedj-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/messwiththedj/messwiththedj-4.jpg",
+                        "thumb":"/assets/data/media/tpcbf/messwiththedj/messwiththedj-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Muziek op de werkvloer",
+                "description":"A Facebook compaign from Randstad which tried to see on what kind of music people are more productive based on their ocuppation.",
+                "date":"august 2012",
+                "url":"https://apps.facebook.com/randstad-afgestemd/",
+                "project_tags":"campaign",
+                "client":"Randstad",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "apis": "Facebook, Echonest",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/randstad/randstad-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/randstad/randstad-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/randstad/randstad-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/randstad/randstad-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/randstad/randstad-3.jpg",
+                        "thumb":"/assets/data/media/tpcbf/randstad/randstad-3_t.jpg"
+                    },
+                    {
+                        "isImage":false,
+                        "vimeo_id":"64149127",
+                        "thumb":"/assets/data/media/tpcbf/randstad/randstad-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Speelmetstijl",
+                "description":"A beauty contest from all the major cities in Holland with lots of photos manageable via a custom CMS. The photo session was taken at the HC HQ and then uploaded via a XML-RPC service to the live server, where automatically processed. Besides the website a Facebook app was made to boost the chances to win.",
+                "date":"may 2012",
+                "url": "http://speelmetstijl.nl/",
+                "project_tags":"campaign",
+                "client":"HollandCasion",
+                "technology":"php, mysql, html, css, javascript, ajax, xml-rpc",
+                "apis": "Facebook",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/speelmetstijl/speelmetstijl-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/speelmetstijl/speelmetstijl-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/speelmetstijl/speelmetstijl-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/speelmetstijl/speelmetstijl-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/speelmetstijl/speelmetstijl-3.jpg",
+                        "thumb":"/assets/data/media/tpcbf/speelmetstijl/speelmetstijl-3_t.jpg"
+                    },
+                    {
+                        "isImage":false,
+                        "vimeo_id":"64152491",
+                        "thumb":"/assets/data/media/tpcbf/speelmetstijl/speelmetstijl-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Kerstboomeruit",
+                "description":"A multilanguage christmas campaign from the Bloemenbureau institution. People could upload images with their christmas tree via Twitter and Facebook. A twitter stream was open during the campaign to capture the tweets and then the images were moderated inside the CMS.",
+                "date":"december 2012",
+                "url": "https://apps.facebook.com/kerstboomeruit/",
+                "project_tags":"website",
+                "client":"Bloemenbureau",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "apis": "Facebook, Twitter",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/bloemenbureau/bloemenbureau-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/bloemenbureau/bloemenbureau-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/bloemenbureau/bloemenbureau-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/bloemenbureau/bloemenbureau-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/bloemenbureau/bloemenbureau-3.jpg",
+                        "thumb":"/assets/data/media/tpcbf/bloemenbureau/bloemenbureau-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/bloemenbureau/bloemenbureau-4.jpg",
+                        "thumb":"/assets/data/media/tpcbf/bloemenbureau/bloemenbureau-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"C&A Reimagine",
+                "description":"Also a multilanguage Facebook app for the regional C&A designers with blog posts, tweets, contest and dresses.",
+                "date":"november 2012",
+                "url": "https://www.facebook.com/ca/app_322939777812790",
+                "project_tags":"campaign",
+                "client":"C&A",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "apis": "Facebook, Twitter",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/ca-reimagine/ca-reimagine-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/ca-reimagine/ca-reimagine-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/ca-reimagine/ca-reimagine-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/ca-reimagine/ca-reimagine-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/ca-reimagine/ca-reimagine-3.jpg",
+                        "thumb":"/assets/data/media/tpcbf/ca-reimagine/ca-reimagine-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/ca-reimagine/ca-reimagine-4.jpg",
+                        "thumb":"/assets/data/media/tpcbf/ca-reimagine/ca-reimagine-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Vodafone - Zakelijk Specialist",
+                "description":"A microsite for finding your closest Vodafone specialist.",
+                "date": "september 2012",
+                "url": "http://www.vodafone.nl/zakelijk/klantenservice/service_en_contact/Zoek_een_winkel/",
+                "project_tags":"website",
+                "client":"Vodafone",
+                "technology":"php, mysql, html, css, javascript, ajax, ffmpeg",
+                "apis": "GoogleMaps",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/vodafonezakelijkespecialisten/vodafonespecialisten-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/vodafonezakelijkespecialisten/vodafonespecialisten-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/vodafonezakelijkespecialisten/vodafonespecialisten-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/vodafonezakelijkespecialisten/vodafonespecialisten-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/vodafonezakelijkespecialisten/vodafonespecialisten-3.jpg",
+                        "thumb":"/assets/data/media/tpcbf/vodafonezakelijkespecialisten/vodafonespecialisten-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/vodafonezakelijkespecialisten/vodafonespecialisten-4.jpg",
+                        "thumb":"/assets/data/media/tpcbf/vodafonezakelijkespecialisten/vodafonespecialisten-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"The company Voice of Holland",
+                "description":"A flash campaign for promoting a new Vodafone product. It uses <a href='https://www.tropo.com/'>tropo</a> for calling, <a href='http://www.fon.hum.uva.nl/praat/'>praat</a> for analysing the voice and <a href='http://www.ffmpeg.org/'>ffmpeg</a> for coversion. To find out more about this project <a href='http://www.amsterdamadblog.com/2012/11/28/the-company-voice-of-holland/'>check this article</a>",
+                "date": "november 2012",
+                "url": "http://thecompanyvoiceofholland.nl/",
+                "project_tags":"campaign",
+                "client":"Vodafone",
+                "technology":"flash, php, mysql, html, css, javascript, ajax, ffmpeg, praat",
+                "apis": "Facebook",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/thecompanyvoiceofholland/thecompanyvoiceofholland-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/thecompanyvoiceofholland/thecompanyvoiceofholland-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/thecompanyvoiceofholland/thecompanyvoiceofholland-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/thecompanyvoiceofholland/thecompanyvoiceofholland-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/thecompanyvoiceofholland/thecompanyvoiceofholland-3.jpg",
+                        "thumb":"/assets/data/media/tpcbf/thecompanyvoiceofholland/thecompanyvoiceofholland-3_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/thecompanyvoiceofholland/thecompanyvoiceofholland-4.jpg",
+                        "thumb":"/assets/data/media/tpcbf/thecompanyvoiceofholland/thecompanyvoiceofholland-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Spykercars",
+                "description":"Corporate website for the exquisite dutch supercar, with a nice design in the frontend and a simple but powerful CMS in the backend",
+                "date":"june 2012",
+                "url": "http://spykercars.com/",
+                "project_tags":"website",
+                "client":"Spykercars",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "apis": "Facebook",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/spykercars/spykercars-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/spykercars/spykercars-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/spykercars/spykercars-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/spykercars/spykercars-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/spykercars/spykercars-3.jpg",
+                        "thumb":"/assets/data/media/tpcbf/spykercars/spykercars-3_t.jpg"
+                    },
+                    {
+                        "isImage":false,
+                        "vimeo_id":"64155508",
+                        "thumb":"/assets/data/media/tpcbf/spykercars/spykercars-4_t.jpg"
+                    }
+                ]
+            },
+            {
+                "name":"Heineken UCL 2013 Final",
+                "description":"The UEFA Champions League 2013 final teaser campaign. Targeting several devices, the site was build in html5 with complex animations based on TweenMax javascript library.",
+                "date":"march 2013",
+                "url": "http://wembleyfinal.heineken.com",
+                "project_tags":"campaign",
+                "client":"Heineken",
+                "technology":"php, mysql, html, css, javascript, ajax",
+                "apis": "GeoIP",
+                "media": [
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/heinekenuclfinal/heinekenuclfinal-1.jpg",
+                        "thumb":"/assets/data/media/tpcbf/heinekenuclfinal/heinekenuclfinal-1_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/heinekenuclfinal/heinekenuclfinal-2.jpg",
+                        "thumb":"/assets/data/media/tpcbf/heinekenuclfinal/heinekenuclfinal-2_t.jpg"
+                    },
+                    {
+                        "isImage":true,
+                        "src":"/assets/data/media/tpcbf/heinekenuclfinal/heinekenuclfinal-3.jpg",
+                        "thumb":"/assets/data/media/tpcbf/heinekenuclfinal/heinekenuclfinal-3_t.jpg"
+                    },
+                    {
+                        "isImage":false,
+                        "vimeo_id":"64146893",
+                        "thumb":"/assets/data/media/tpcbf/heinekenuclfinal/heinekenuclfinal-4_t.jpg"
+                    }
+                ]
+            }
+
+        ],
+        "count":10
+    }
+}

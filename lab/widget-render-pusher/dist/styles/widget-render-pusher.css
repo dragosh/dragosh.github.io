@@ -1,0 +1,83 @@
+/* widget-render-pusher@v0.7.0 build with ♥ by bb-lp-cli@v1.9.5 *//**
+ * Widget styles
+ */
+* {
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body {
+  background: #333 url("../media/render-background.png");
+}
+
+footer {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background: rgba(200, 200, 200, 0.5);
+}
+
+footer a {
+  padding: 5px;
+}
+
+#bb {
+  height: 64px;
+  width: 64px;
+  display: block;
+  overflow: hidden;
+  float: left;
+  background: url("../media/logo.png");
+}
+
+#push {
+  height: 64px;
+  width: 64px;
+  display: block;
+  overflow: hidden;
+  float: left;
+  background: url("../media/pusher.jpg");
+}
+
+.clearfix {
+  overflow: auto;
+  zoom: 1;
+}
+
+hr {
+  border: 1px dotted solid;
+}
+
+.pic {
+  border: 10px solid #fff;
+  height: 320px;
+  width: 240px;
+  overflow: hidden;
+  margin: 20px auto;
+  box-shadow: 5px 5px 5px #111;
+}
+
+#shutter {
+  opacity: 0;
+  transition: all 30ms ease-in;
+  /* Shutter speed */
+  position: fixed;
+  height: 0%;
+  width: 0%;
+  pointer-events: none;
+  background-color: white;
+  /* Shutter Color */
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+}
+
+#shutter.on {
+  opacity: 1;
+  /* Shutter Transparency */
+  height: 100%;
+  width: 100%;
+}
+
+/*# sourceMappingURL=widget-render-pusher.css.map */

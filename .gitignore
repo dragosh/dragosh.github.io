@@ -1,0 +1,9 @@
+node_modules
+.tmp
+__tmp
+.sass-cache
+.git
+.hg
+.DS_Store
+Thumbs.db
+assets/scripts/components

@@ -1,0 +1,10 @@
+{
+  "name": "widget-welcome",
+  "main": "dist/index.js",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules"
+  ],
+  "version": "0.7.0"
+}

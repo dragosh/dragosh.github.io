@@ -1,0 +1,44 @@
+<div class="browser-page">
+    <ul class="rs-slider">
+    {{#each project.media}}
+        <li class="rs-slide">
+            {{#if isImage}}
+            <img src="{{src}}" alt="">
+            {{else}}
+            <iframe id="vimeoplayer_{{vimeo_id}}" src="//player.vimeo.com/video/{{vimeo_id}}?api=1&amp;player_id=vimeoplayer_{{id}}&amp;title=0&amp;byline=0&amp;portrait=0&amp;color=9b9cb6" width="805" height="410" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen wmode="transparent"></iframe>
+            {{/if}}
+        </li>
+    {{/each}}
+    </ul>
+
+    <div class="caption">
+        <a class="icon-symbol toggle-caption icon-angle-down" rel="down" href="#" title="Show Details"></a>
+        <div class="details">
+            <h2>{{project.name}} <br> {{#if project.date}} <span class="date">{{project.date}}</span> {{/if}}</h2>
+            <h3>{{project.client}}</h3>
+            <p>{{{project.description}}}</p>
+            <h4>{{project.technology}}</h4>
+            {{#if project.apis}}
+            <h3 class="apis">API's: {{project.apis}}</h3>
+            {{/if}}
+        </div>
+        {{#if project.url}}
+        <h3 class="url"><a href="{{project.url}}" target="_blank">Visit website</a></h3>
+        {{/if}}
+
+        <div class="thumbs">
+            <ul class="carousel">
+                {{#each project.media}}
+                <li>
+                    {{#unless isImage}}
+                    <a href="#" class="icon-symbol" rel="play"></a>
+                    {{/unless}}
+                    <img src="{{thumb}}" alt="" width="60">
+                </li>
+                {{/each}}
+            </ul>
+        </div>
+
+
+    </div>
+</div>
