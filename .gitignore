@@ -7,3 +7,4 @@ __tmp
 .DS_Store
 Thumbs.db
 assets/scripts/components
+package-lock.json
